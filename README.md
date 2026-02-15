@@ -1,13 +1,13 @@
-# 🤖✨ Welcome to **CodexAI** – Your AI Code Review Buddy! ✨
+# 🤖✨ Welcome to **CodeNova** – Your AI Code Review Buddy! ✨
 
-CodexAI is your smart, friendly, and lightning-fast AI-powered code reviewer!  
+CodeNova is your smart, friendly, and lightning-fast AI-powered code reviewer!  
 Paste your code, hit **Review**, and get instant, expert feedback powered by Google Gemini.  
 Perfect for learners, pros, and everyone in between – all in a beautiful, interactive interface.
 
 ---
 ## 🌐 Live Demo
 
-🚀 **Try it here:** [CodexAI Live App](https://codexai-ai-code-editor.vercel.app/)
+🚀 **Try it here:** [CodeNova Live App](https://codenova-ai-code-editor.vercel.app/)
 
 *(Deployed version with full frontend + backend integration)*
 
@@ -27,7 +27,7 @@ Perfect for learners, pros, and everyone in between – all in a beautiful, inte
 ### 1. Clone this repo
 
 ```sh
-git clone https://github.com/your-username/CodexAI-AI-Code-Reviewer.git
+git clone https://github.com/your-username/CodeNova-AI-Code-Reviewer.git
 cd CodexAI
 ```
 
@@ -72,11 +72,11 @@ Get yours from [Google AI Studio](https://aistudio.google.com/app/apikey) and ad
 
 | 🔍 Review Example |
 |-------------------|
-| ![Review](assets/codexai-ss2.png) |
+| ![Review](assets/codenova-ss2.png) |
 
 | 🏠 Home Page |
 |-------------|
-| ![Home](assets/codexai-ss1.png) |
+| ![Home](assets/codexnova-ss1.png) |
 
 ---
 
@@ -88,7 +88,7 @@ Get yours from [Google AI Studio](https://aistudio.google.com/app/apikey) and ad
 
 ---
 
-## 🤗 Thank You for Visiting CodexAI!
+## 🤗 Thank You for Visiting CodeNova!
 
 I am thrilled to have you here! If you have feedback or ideas, feel free to open an issue or contribute.  
-Happy coding, and remember: **with CodexAI, you're never coding alone!** 🚀🤝✨
+Happy coding, and remember: **with CodeNova, you're never coding alone!** 🚀🤝✨
