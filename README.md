@@ -76,7 +76,7 @@ Get yours from [Google AI Studio](https://aistudio.google.com/app/apikey) and ad
 
 | 🏠 Home Page |
 |-------------|
-| ![Home](assets/codexnova-ss1.png) |
+| ![Home](assets/codenova-ss1.png) |
 
 ---
 
