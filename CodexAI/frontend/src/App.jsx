@@ -57,12 +57,12 @@ function App() {
     <>
       <header className="cortexa-header">
         <img src={codex} alt="CodexAI Logo" className="logo" />
-        <h1>CodexAI</h1>
+        <h1>CodeNova</h1>
       </header>
       <main>
         <div className="left" style={{ flexBasis: `${leftWidth}%` }}>
           <div className="welcome-message">
-            <h2>Welcome to CodexAI!</h2>
+            <h2>Welcome to CodeNova!</h2>
             <p>
               Add your code below and click <b>Review</b> to get instant, AI-powered feedback.<br />
               
